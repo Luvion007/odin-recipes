@@ -1,0 +1,54 @@
+.main {
+  background-color: wheat;
+  font-family: "Times New Roman", Arial, sans-serif;
+}
+.description {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.heading.recipe {
+  text-align: center;
+  font-size: 40px;
+}
+
+.img.recipe {
+  width: 500px;
+  height: auto;
+}
+
+.ingredient {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.instruction {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.index.heading {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.recipe {
+  font-size: 20px;
+}
+
+.recipe.first {
+  text-align: center;
+  padding-left: 20px;
+}
+.recipe.second {
+  text-align: center;
+  padding-left: 600px;
+}
+
+.recipe.third {
+  text-align: center;
+  padding-left: 530px;
+  padding-right: 20px;
+}
